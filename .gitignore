@@ -1,0 +1,5 @@
+# 本地配置与运行产物（含账号密码、IP/MAC、会话信息，绝不入库）
+config.json
+state.json
+logs/
+_portal-recon/

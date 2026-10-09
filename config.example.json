@@ -1,0 +1,18 @@
+{
+  "account": "你的上网账号",
+  "password": "你的密码",
+
+  "portalHost": "110.184.24.61",
+  "loginButtonText": "登录|立即登录|Login",
+
+  "wifiSsidPatterns": ["ChinaTelecom-EDU"],
+  "onlyOnKnownSsid": true,
+
+  "waitWifiSeconds": 90,
+  "waitFormSeconds": 60,
+  "waitSuccessSeconds": 90,
+  "retryTimes": 3,
+
+  "watchIntervalSeconds": 15,
+  "watchGraceSeconds": 60
+}
